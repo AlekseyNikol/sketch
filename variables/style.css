@@ -70,7 +70,6 @@ body {
     background-color: var(--bg);
 }
 
-.body,
 input {
     font: 1em/1.5 Fredoka, sans-serif;
 }
