@@ -5,6 +5,5 @@ The abstract task is implemented in pure SCC using [variables](https://developer
 
 #Таймер и Переключатель фона «Светлый/Темный»
 ___
-![screen](screen.jpg)
 Абстрактная задача реализована на чистом SCC с помощью [переменных](https://developer.mozilla.org/ru/docs/Web/CSS/Using_CSS_custom_properties) и правил [@keyframes](https://developer.mozilla.org/en-US/docs/Web/CSS/@keyframes), [@property](https://developer.mozilla.org/en-US/docs/Web/CSS/@property) и проверки feature queries - [@supports](https://developer.mozilla.org/en-US/docs/Web/CSS/@supports). Структура кода CSS разбита на два блока (Timer и Light/Dark Toggle).
 
