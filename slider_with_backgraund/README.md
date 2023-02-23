@@ -2,7 +2,7 @@
 ___
 ![screen](screen.jpg)
 
-The slider is made without the use of scripts using CSS-sabotage [Animation] (https://developer.mozilla.org/ru/docs/web/css/animation).
+The slider is made without the use of scripts using CSS-sabotage [animation](https://developer.mozilla.org/ru/docs/web/css/animation).
 The often used structure in the form of a slider for buckshot and a preview with a dynamic background.
 
 Information about the code:
@@ -21,7 +21,7 @@ The values in the animation of Zoom are set as follows:
 50% {transform: scale (1.3)} - 100 /4 (number of slides) x 2, in which we increase the photo.
 
 # Слайдер с меняющимся фоном
-___git 
+___
 
 Слайдер выполнен без применения скриптов с использованием СSS-свойства [animation](https://developer.mozilla.org/ru/docs/Web/CSS/animation).
 Часто используемая структура в виде слайдера для картачек и превью с динамическим фоновым.
